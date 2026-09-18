@@ -1,0 +1,7 @@
+dimension,level,label,avg_demand
+Weekday,Highest,Saturday,4.411406368365513
+Weekday,Lowest,Thursday,4.119292841895209
+Month,Highest,July,4.7876548764124305
+Month,Lowest,January,3.3883123295329822
+Season,Highest,fall,4.660270180478897
+Season,Lowest,spring,3.6068533403104572
